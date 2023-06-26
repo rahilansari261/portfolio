@@ -1,11 +1,11 @@
-// import Image from "next/image";
+import Image from "next/image";
 import { FaEnvelope, FaEnvelopeOpen, FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 import Header from "@/components/Header";
 
 export default function Home() {
   return (
     <div className="hero">
-      <img className="hero-image" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif-image" />
+      <Image className="hero-image" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif-image" />
       <div className="dev-name">RAHIL ANSARI</div>
       <div className="dev-title">SOFTWARE ENGINEER</div>
       <div className="btn">

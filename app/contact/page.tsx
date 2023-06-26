@@ -1,9 +1,9 @@
 import { FaEnvelope, FaEnvelopeOpen, FaGithub, FaLinkedin } from "react-icons/fa";
-
+import Image from "next/image";
 const Contact = () => {
   return (
     <div className="hero">
-      <img className="hero-image" src="./assets/images/contact.webp" alt="gif-image" />
+      <Image className="hero-image" src="./assets/images/contact.webp" alt="gif-image" />
 
       <a className="contact-mail" href="mailto: rahilansari261@gmail.com" target="_blank">
         <FaEnvelope />

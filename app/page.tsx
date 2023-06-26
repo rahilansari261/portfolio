@@ -1,5 +1,5 @@
 // import Image from "next/image";
-
+import { FaEnvelope, FaEnvelopeOpen, FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 import Header from "@/components/Header";
 
 export default function Home() {
@@ -17,27 +17,27 @@ export default function Home() {
       <ul className="sma">
         <li>
           <a href="https://github.com/rahilansari261" target="_blank">
-            <i className="fa fa-github"></i>
+            <FaGithub />
           </a>
         </li>
         <li>
           <a href="https://www.instagram.com/rahilansariii/" target="_blank">
-            <i className="fa fa-instagram"></i>
+            <FaInstagram />
           </a>
         </li>
         <li>
           <a href="https://in.linkedin.com/in/rahil-raza-ansari-34712356" target="_blank">
-            <i className="fa fa-linkedin"></i>
+            <FaLinkedin />
           </a>
         </li>
         <li>
           <a href="https://twitter.com/rahilansari261?t=8VYMXfX8HVQ2XE-7puFoNQ&s=08" target="_blank">
-            <i className="fa fa-twitter"></i>
+            <FaTwitter />
           </a>
         </li>
         <li>
           <a href="mailto: rahilansari261@gmail.com" target="_blank">
-            <i className="fa fa-envelope-open"></i>
+            <FaEnvelopeOpen />
           </a>
         </li>
       </ul>

@@ -24,7 +24,7 @@ const About = () => {
         <div>
           <h3>Education:</h3>
           <ul>
-            <li>Bachelor's degree in Computer Science from RTU University</li>
+            <li>Bachelor&apos;s degree in Computer Science from RTU University</li>
           </ul>
         </div>
         <div>

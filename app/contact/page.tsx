@@ -8,7 +8,7 @@ const Contact = () => {
       <a className="contact-mail" href="mailto: rahilansari261@gmail.com" target="_blank">
         <FaEnvelope />
       </a>
-      <p className="lets-talk">Let's talk!</p>
+      <p className="lets-talk">Let&apos;s talk!</p>
 
       <ul className="sma">
         <li>

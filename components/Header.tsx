@@ -1,3 +1,4 @@
+import { FaBars } from "react-icons/fa";
 const Header = () => {
   return (
     <header>
@@ -7,7 +8,7 @@ const Header = () => {
           <div className="sname logo-name">ANSARI</div>
         </div>
         <div className="hamburger" aria-label="toggle navigation">
-          <i className="fa fa-bars"></i>
+          <FaBars />
         </div>
         <div className="close" aria-label="toggle navigation">
           X

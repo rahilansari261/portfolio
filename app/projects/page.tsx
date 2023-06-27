@@ -19,7 +19,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="project--image">
-              <Image className="project--screenshot" src="./assets/images/tenzies.png" alt="tenzies app screenshot" />
+              <Image className="project--screenshot" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="project--image">
-              <Image className="project--screenshot" src="./assets/images/tenzies.png" alt="tenzies app screenshot" />
+              <Image className="project--screenshot" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="project--image">
-              <Image className="project--screenshot" src="./assets/images/tenzies.png" alt="tenzies app screenshot" />
+              <Image className="project--screenshot" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="project--image">
-              <Image className="project--screenshot" src="./assets/images/tenzies.png" alt="tenzies app screenshot" />
+              <Image className="project--screenshot" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
             </div>
           </div>
         </div>

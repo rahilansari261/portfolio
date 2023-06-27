@@ -1,16 +1,16 @@
 import { FaBars } from "react-icons/fa";
 const Header = () => {
-  const open: any = document.querySelector(".hamburger");
+  // const open: any = document.querySelector(".hamburger");
 
-  open.addEventListener("click", () => {
-    document.body.classList.toggle("nav-open");
-  });
+  // open.addEventListener("click", () => {
+  //   document.body.classList.toggle("nav-open");
+  // });
 
-  const close: any = document.querySelector(".close");
+  // const close: any = document.querySelector(".close");
 
-  close.addEventListener("click", () => {
-    document.body.classList.toggle("nav-open");
-  });
+  // close.addEventListener("click", () => {
+  //   document.body.classList.toggle("nav-open");
+  // });
 
   return (
     <header>

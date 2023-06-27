@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 export default function Home() {
   return (
     <div className="hero">
-      <Image className="hero-image" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif-image" />
+      <Image className="hero-image" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif-image" width="500" height="300" />
       <div className="dev-name">RAHIL ANSARI</div>
       <div className="dev-title">SOFTWARE ENGINEER</div>
       <div className="btn">

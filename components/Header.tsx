@@ -1,5 +1,7 @@
+"use client";
 import { FaBars } from "react-icons/fa";
 import Link from "next/link";
+import { useState } from "react";
 const Header = () => {
   // const open: any = document.querySelector(".hamburger");
 
@@ -13,6 +15,12 @@ const Header = () => {
   //   document.body.classList.toggle("nav-open");
   // });
 
+  const [isOpen, setIsOpen] = useState(false);
+
+  function handleNav(): void {
+    setIsOpen(!isOpen);
+  }
+
   return (
     <header>
       <div className="wrapper">
@@ -22,15 +30,15 @@ const Header = () => {
             <div className="sname logo-name">ANSARI</div>
           </div>
         </Link>
-        <div className="hamburger" aria-label="toggle navigation">
+        <div className={`hamburger ${isOpen ? { display: "none" } : ""}`} aria-label="toggle navigation" onClick={handleNav}>
           <FaBars />
         </div>
-        <div className="close" aria-label="toggle navigation">
+        <div className={`close ${isOpen ? { display: "block" } : ""}`} aria-label="toggle navigation" onClick={handleNav}>
           X
         </div>
       </div>
       <nav>
-        <ul className="nav-list">
+        <ul className={`nav-list ${isOpen ? { transform: "translateX(0%)" } : ""} `}>
           <li className="nav-items">
             <Link href="/" className="nav__link">
               Home <span></span>

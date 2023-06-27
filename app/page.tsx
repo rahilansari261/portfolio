@@ -1,6 +1,7 @@
 import Image from "next/image";
-import { FaEnvelope, FaEnvelopeOpen, FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
-import Header from "@/components/Header";
+import { FaEnvelopeOpen, FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -9,36 +10,36 @@ export default function Home() {
       <div className="dev-name">RAHIL ANSARI</div>
       <div className="dev-title">SOFTWARE ENGINEER</div>
       <div className="btn">
-        <a className="resume" href="./assets/files/hello.pdf.txt" download>
+        <Link className="resume" href="./assets/files/hello.pdf.txt" download>
           My Resume
-        </a>
+        </Link>
       </div>
 
       <ul className="sma">
         <li>
-          <a href="https://github.com/rahilansari261" target="_blank">
+          <Link href="https://github.com/rahilansari261" target="_blank">
             <FaGithub />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="https://www.instagram.com/rahilansariii/" target="_blank">
+          <Link href="https://www.instagram.com/rahilansariii/" target="_blank">
             <FaInstagram />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="https://in.linkedin.com/in/rahil-raza-ansari-34712356" target="_blank">
+          <Link href="https://in.linkedin.com/in/rahil-raza-ansari-34712356" target="_blank">
             <FaLinkedin />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="https://twitter.com/rahilansari261?t=8VYMXfX8HVQ2XE-7puFoNQ&s=08" target="_blank">
+          <Link href="https://twitter.com/rahilansari261?t=8VYMXfX8HVQ2XE-7puFoNQ&s=08" target="_blank">
             <FaTwitter />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="mailto: rahilansari261@gmail.com" target="_blank">
+          <Link href="mailto: rahilansari261@gmail.com" target="_blank">
             <FaEnvelopeOpen />
-          </a>
+          </Link>
         </li>
       </ul>
     </div>

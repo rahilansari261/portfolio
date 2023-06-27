@@ -1,4 +1,5 @@
 import { FaBars } from "react-icons/fa";
+import Link from "next/link";
 const Header = () => {
   // const open: any = document.querySelector(".hamburger");
 
@@ -15,10 +16,12 @@ const Header = () => {
   return (
     <header>
       <div className="wrapper">
-        <div className="logo">
-          <div className="fname logo-name">RAHIL</div>
-          <div className="sname logo-name">ANSARI</div>
-        </div>
+        <Link href="/">
+          <div className="logo">
+            <div className="fname logo-name">RAHIL</div>
+            <div className="sname logo-name">ANSARI</div>
+          </div>
+        </Link>
         <div className="hamburger" aria-label="toggle navigation">
           <FaBars />
         </div>
@@ -29,29 +32,29 @@ const Header = () => {
       <nav>
         <ul className="nav-list">
           <li className="nav-items">
-            <a href="/" className="nav__link">
+            <Link href="/" className="nav__link">
               Home <span></span>
-            </a>
+            </Link>
           </li>
           <li className="nav-items">
-            <a href="/about" className="nav__link">
+            <Link href="/about" className="nav__link">
               About <span></span>
-            </a>
+            </Link>
           </li>
           <li className="nav-items">
-            <a href="/projects" className="nav__link">
+            <Link href="/projects" className="nav__link">
               Projects <span></span>
-            </a>
+            </Link>
           </li>
           <li className="nav-items">
-            <a href="/support" className="nav__link">
+            <Link href="/support" className="nav__link">
               Support <span></span>
-            </a>
+            </Link>
           </li>
           <li className="nav-items">
-            <a href="/contact" className="nav__link">
+            <Link href="/contact" className="nav__link">
               Contact <span></span>
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>

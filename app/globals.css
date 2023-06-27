@@ -42,6 +42,9 @@ header {
   color: #433ec4;
   display: none;
 }
+.logo{
+  cursor: pointer;
+}
 .logo-name {
   letter-spacing: 2px;
   line-height: 27px;

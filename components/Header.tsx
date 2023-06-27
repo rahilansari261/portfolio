@@ -1,7 +1,7 @@
 "use client";
 import { FaBars } from "react-icons/fa";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 const Header = () => {
   // const open: any = document.querySelector(".hamburger");
 
@@ -20,7 +20,9 @@ const Header = () => {
   function handleNav(): void {
     setIsOpen(!isOpen);
   }
-
+  useEffect(() => {
+    console.log(isOpen);
+  }, [isOpen]);
   return (
     <header>
       <div className="wrapper">

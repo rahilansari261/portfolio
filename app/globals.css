@@ -40,7 +40,7 @@ header {
   font-size: 40px;
   z-index: 1000;
   color: #433ec4;
-  display: none;
+  /* display: none; */
 }
 .logo{
   cursor: pointer;
@@ -250,7 +250,7 @@ header {
     font-weight: 900;
     text-transform: uppercase;
   }
-  .nav-open .nav-list {
+  /* .nav-open .nav-list {
     transform: translateX(0%);
   }
   .nav-open .close {
@@ -258,7 +258,7 @@ header {
   }
   .nav-open .hamburger {
     display: none;
-  }
+  } */
   .nav__link span {
     position: absolute;
     bottom: 0;

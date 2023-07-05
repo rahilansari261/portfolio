@@ -9,3 +9,4 @@ const close = document.querySelector('.close')
 close.addEventListener('click', () => {
   document.body.classList.toggle('nav-open')
 })
+

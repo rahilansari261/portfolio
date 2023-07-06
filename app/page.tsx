@@ -17,27 +17,27 @@ export default function Home() {
 
       <ul className="w-[300px] flex justify-between mx-0 my-2.5 list-none">
         <li>
-          <Link className="no-underline text-3xl text-black;" href="https://github.com/rahilansari261" target="_blank">
+          <Link className="no-underline text-3xl text-black" href="https://github.com/rahilansari261" target="_blank">
             <FaGithub />
           </Link>
         </li>
         <li>
-          <Link className="no-underline text-3xl text-black;" href="https://www.instagram.com/rahilansariii/" target="_blank">
+          <Link className="no-underline text-3xl text-black" href="https://www.instagram.com/rahilansariii/" target="_blank">
             <FaInstagram />
           </Link>
         </li>
         <li>
-          <Link className="no-underline text-3xl text-black;" href="https://in.linkedin.com/in/rahil-raza-ansari-34712356" target="_blank">
+          <Link className="no-underline text-3xl text-black" href="https://in.linkedin.com/in/rahil-raza-ansari-34712356" target="_blank">
             <FaLinkedin />
           </Link>
         </li>
         <li>
-          <Link className="no-underline text-3xl text-black;" href="https://twitter.com/rahilansari261?t=8VYMXfX8HVQ2XE-7puFoNQ&s=08" target="_blank">
+          <Link className="no-underline text-3xl text-black" href="https://twitter.com/rahilansari261?t=8VYMXfX8HVQ2XE-7puFoNQ&s=08" target="_blank">
             <FaTwitter />
           </Link>
         </li>
         <li>
-          <Link className="no-underline text-3xl text-black;" href="mailto: rahilansari261@gmail.com" target="_blank">
+          <Link className="no-underline text-3xl text-black" href="mailto: rahilansari261@gmail.com" target="_blank">
             <FaEnvelopeOpen />
           </Link>
         </li>

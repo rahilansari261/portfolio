@@ -20,7 +20,7 @@ const Header = () => {
           </div>
         </Link>
 
-        <div className="text-[40px] z-[1000] text-[#433ec4];" aria-label="toggle navigation" onClick={handleNav}>
+        <div className="text-[40px] z-[1000] text-[#433ec4]" aria-label="toggle navigation" onClick={handleNav}>
           {isDrawerOpen ? <FaTimes /> : <FaBars />}
         </div>
       </div>

@@ -10,20 +10,17 @@ const Header = () => {
     setIsDrawerOpen(!isDrawerOpen);
   };
 
-  useEffect(() => {
-    console.log(isDrawerOpen);
-  }, [isDrawerOpen]);
   return (
     <header>
-      <div className=" wrapper">
+      <div className=" w-[300px] flex justify-between items-center;">
         <Link href="/">
-          <div className="logo-name ">
-            <div className=" fname ">RAHIL</div>
-            <div className="sname ">ANSARI</div>
+          <div className="tracking-[2px] leading-[27px] font-[bold] text-4xl text-[#9f9eff];">
+            <div className=" text-[#433ec4]; ">RAHIL</div>
+            <div className="text-[#007efc]; ">ANSARI</div>
           </div>
         </Link>
 
-        <div className="hamburger" aria-label="toggle navigation" onClick={handleNav}>
+        <div className="text-[40px] z-[1000] text-[#433ec4];" aria-label="toggle navigation" onClick={handleNav}>
           {isDrawerOpen ? "X" : <FaBars />}
         </div>
       </div>
@@ -60,24 +57,6 @@ const Header = () => {
           </li>
         </ul>
       </nav>
-
-      {/* return ( */}
-      {/* <div className="relative">
-        {isDrawerOpen && <div className="fixed inset-0 bg-black opacity-50"></div>}
-        <div className={`fixed top-0 right-0 w-64 h-full bg-white transform transition-transform ${isDrawerOpen ? "translate-x-0" : "translate-x-full"}`}>
-          <div className="flex items-center justify-end p-4">
-            <button onClick={toggleDrawer}>
-              <FaTimes />
-            </button>
-          </div>
-          <div className="p-4">
-            <p className="text-gray-600 text-lg">Drawer Content</p>
-          </div>
-        </div>
-        <button className="fixed top-4 right-4 z-10" onClick={toggleDrawer}>
-          {isDrawerOpen ? <FaTimes /> : <FaBars />}
-        </button>
-      </div> */}
     </header>
   );
 };

@@ -14,7 +14,7 @@ module.exports = {
         },
       },
       animation: {
-        wiggle: "wiggle 2s ease-out ",
+        wiggle: "wiggle 2s ease-out forwards ",
       },
     },
   },

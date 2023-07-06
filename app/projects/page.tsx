@@ -3,7 +3,7 @@ import Image from "next/image";
 const Projects = () => {
   return (
     <div className="flex justify-center">
-      <div className="text-black p-5;">
+      <div className="text-black p-5">
         <h2 className="mb-5">My Projects</h2>
         <div className="mb-5">
           <h3>Project Name: Tenzies Game</h3>
@@ -19,7 +19,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="basis-2/5">
-              <Image className="h-[200px] max-w-[300px];" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
+              <Image className="h-[200px] max-w-[300px]" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
             </div>
           </div>
         </div>

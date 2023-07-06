@@ -9,8 +9,8 @@ module.exports = {
       },
       keyframes: {
         wiggle: {
-          "0%, 100%": { letterSpacing: "-17px", opacity: "0" },
-          "50%": { letterSpacing: "0px", opacity: "1" },
+          "0%": { letterSpacing: "-17px", opacity: "0" },
+          "100%": { letterSpacing: "0px", opacity: "1" },
         },
       },
       animation: {

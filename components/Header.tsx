@@ -15,8 +15,8 @@ const Header = () => {
       <div className=" w-[300px] flex justify-between items-center;">
         <Link href="/">
           <div className="tracking-[2px] leading-[27px] font-[bold] text-4xl text-[#9f9eff];">
-            <div className=" text-[#433ec4]; ">RAHIL</div>
-            <div className="text-[#007efc]; ">ANSARI</div>
+            <div className=" text-[#433ec4] ">RAHIL</div>
+            <div className="text-[#007efc] ">ANSARI</div>
           </div>
         </Link>
 

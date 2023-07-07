@@ -19,7 +19,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="basis-2/5">
-              <Image className="h-[200px] max-w-[300px]" src="/assets/images/tenzies.png" alt="tenzies app screenshot" />
+              <Image className="h-[200px] max-w-[300px]" src="/assets/images/tenzies.png" alt="tenzies app screenshot" width="480" height="480" />
             </div>
           </div>
         </div>

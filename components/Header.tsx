@@ -31,27 +31,27 @@ const Header = () => {
           ease-[cubic-bezier(0.5,0,0.5,1)]  h-screen  md:h-0  flex 
           flex-col md:flex-row  justify-evenly md:justify-center items-center  inset-0 md:inset-auto `}
       >
-        <li className="">
+        <li className="" onClick={handleNav}>
           <Link href="/" className="relative text-[#a09eff] no-underline text-3xl font-black uppercase  md:inline-block  md:text-base md:font-normal  md:mx-2.5 md:my-0 md:pb-[5px]">
             Home <span className="absolute bg-[#007efc] w-[0%] h-0.5 transition-all duration-[0.6s] left-0 bottom-0 hover:w-full"></span>
           </Link>
         </li>
-        <li className="">
+        <li className="" onClick={handleNav}>
           <Link href="/about" className="relative text-[#a09eff] no-underline text-3xl font-black uppercase  md:inline-block  md:text-base md:font-normal  md:mx-2.5 md:my-0 md:pb-[5px]">
             About <span className="absolute bg-[#007efc] w-[0%] h-0.5 transition-all duration-[0.6s] left-0 bottom-0 hover:w-full"></span>
           </Link>
         </li>
-        <li className="">
+        <li className="" onClick={handleNav}>
           <Link href="/projects" className="relative text-[#a09eff] no-underline text-3xl font-black uppercase  md:inline-block  md:text-base md:font-normal  md:mx-2.5 md:my-0 md:pb-[5px]">
             Projects <span className="absolute bg-[#007efc] w-[0%] h-0.5 transition-all duration-[0.6s] left-0 bottom-0 hover:w-full"></span>
           </Link>
         </li>
-        <li className="">
+        <li className="" onClick={handleNav}>
           <Link href="/support" className="relative text-[#a09eff] no-underline text-3xl font-black uppercase  md:inline-block  md:text-base md:font-normal  md:mx-2.5 md:my-0 md:pb-[5px]">
             Support <span className="absolute bg-[#007efc] w-[0%] h-0.5 transition-all duration-[0.6s] left-0 bottom-0 hover:w-full"></span>
           </Link>
         </li>
-        <li className="">
+        <li className="" onClick={handleNav}>
           <Link href="/contact" className="relative text-[#a09eff] no-underline text-3xl font-black uppercase  md:inline-block  md:text-base md:font-normal  md:mx-2.5 md:my-0 md:pb-[5px]">
             Contact <span className="absolute bg-[#007efc] w-[0%] h-0.5 transition-all duration-[0.6s] left-0 bottom-0 hover:w-full"></span>
           </Link>

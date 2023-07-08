@@ -2,8 +2,8 @@ import { FaEnvelope, FaEnvelopeOpen, FaGithub, FaLinkedin } from "react-icons/fa
 import Image from "next/image";
 const Contact = () => {
   return (
-    <div className="flex flex-col justify-center items-center m-[50px]">
-      <Image className="max-w-full h-[300px] hue-rotate-[100deg]" src="/assets/images/contact.webp" alt="gif-image" />
+    <div className="flex flex-col justify-center items-center ">
+      <Image className="max-w-full hue-rotate-[100deg]" src="/assets/images/contact.webp" alt="gif-image" width="300" height="300" />
 
       <a className="text-[90px] text-black" href="mailto: rahilansari261@gmail.com" target="_blank">
         <FaEnvelope />

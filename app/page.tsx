@@ -5,8 +5,8 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex flex-col justify-center items-center m-[50px]">
-      <Image className="max-w-full h-[300px] hue-rotate-[100deg]" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif-image" width="300" height="480" />
+    <div className="flex flex-col justify-center items-center px-10 py-4">
+      <Image className="max-w-full hue-rotate-[100deg]" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="gif-image" width="300" height="480" />
       <div className="font-black text-[40px] leading-none text-center text-black opacity-0 animate-wiggle w-[300px] pt-2.5">RAHIL ANSARI</div>
       <div className="text-black text-xs font-normal tracking-[8px] text-center w-[300px] mx-0 my-2.5">SOFTWARE ENGINEER</div>
       <div className="bg-[#007efc] w-[300px] text-center text-xl cursor-pointer transition-all duration-[0.3s] ease-[ease-in-out] mx-0 my-2.5 p-2.5 rounded-[5px] hover:bg-[#433ec4]">

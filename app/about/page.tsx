@@ -3,17 +3,9 @@ const About = () => {
     <div className="w-full text-black text-[1.2rem] leading-normal px-10 py-4 md:max-w-[800px] md:mx-auto">
       <h2 className="text-[2rem] mb-4">About Me</h2>
       <p className="font-light mb-2">
-        I am a passionate and experienced JavaScript developer with a strong background in creating high-quality web applications. I have experience in a variety of technologies, including React,
-        Node.js, and Express. I am highly skilled in front-end and back-end development and have a deep understanding of web development concepts and best practices.
+      Experienced JavaScript developer skilled in React, Node.js, and Express. Strong background in web app development with expertise in front-end and back-end. Quick learner, adaptable to new tech and languages. Collaborative team player dedicated to delivering quality work within deadlines. Effective communicator with clients, stakeholders, and team members.
       </p>
-      <p className="font-light mb-2">
-        I am always eager to take on new challenges and am constantly striving to improve my skills and knowledge. I am a quick learner and am able to adapt to new technologies and programming
-        languages easily.
-      </p>
-      <p className="font-light mb-2">
-        In addition to my technical skills, I am a team player who is able to work well with others and am dedicated to delivering high-quality work on time and on budget. I am also able to
-        communicate effectively with clients, stakeholders, and team members.
-      </p>
+      
       <div>
         <h3 className="text-2xl mb-2">Current Job Title:</h3>
         <p className="font-light mb-2">JavaScript Developer</p>
@@ -26,7 +18,7 @@ const About = () => {
       </div>
       <div>
         <h3 className="text-2xl mb-2">Experience:</h3>
-        <ul>
+        <ul className="list-disc">
           <li className="font-light mb-2">Professional experience in web development</li>
           <li className="font-light mb-2">Experience working in Agile development environments</li>
           <li className="font-light mb-2">Experience with React, Node.js, Express, and MongoDB</li>
@@ -35,7 +27,7 @@ const About = () => {
       </div>
       <div>
         <h3 className="text-2xl mb-2">Contact Information:</h3>
-        <ul>
+        <ul >
           <li className="font-light mb-2">Email: rahilansari261@gmail.com</li>
           <li className="font-light mb-2">Phone: +91 7742148739</li>
           <li className="font-light mb-2">

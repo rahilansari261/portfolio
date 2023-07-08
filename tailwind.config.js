@@ -16,6 +16,9 @@ module.exports = {
       animation: {
         wiggle: "wiggle 2s ease-out forwards ",
       },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+      },
     },
   },
   plugins: [],

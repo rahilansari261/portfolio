@@ -15,8 +15,8 @@ const Header = () => {
       <div className=" h-[100px] w-full px-10 flex justify-between items-center md:hidden">
         <Link href="/">
           <div className="tracking-[2px] leading-[27px] font-[bold] text-4xl text-[#9f9eff]">
-            <div className=" text-[#433ec4] ">RAHIL</div>
-            <div className="text-[#007efc] ">ANSARI</div>
+            <div className=" text-[#433ec4] font-roboto font-bold">RAHIL</div>
+            <div className="text-[#007efc] font-roboto font-bold">ANSARI</div>
           </div>
         </Link>
 

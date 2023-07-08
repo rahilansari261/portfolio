@@ -12,7 +12,7 @@ const Header = () => {
 
   return (
     <header className="flex justify-center md:items-center md:h-[100px] md:w-full">
-      <div className=" w-[300px] flex justify-between items-center md:hidden">
+      <div className=" w-full px-10 flex justify-between items-center md:hidden">
         <Link href="/">
           <div className="tracking-[2px] leading-[27px] font-[bold] text-4xl text-[#9f9eff]">
             <div className=" text-[#433ec4] ">RAHIL</div>

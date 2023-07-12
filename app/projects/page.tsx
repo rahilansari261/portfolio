@@ -16,14 +16,14 @@ const Projects = () => {
         <div className="relative row-span-2 h-[200px]">
           <Image className="object-cover transition-all object-top ease-in-out hover:object-center duration-1000" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
         </div>
-        <div className="relative col-span-2 h-[100px]  transition-all object-top ease-in-out hover:object-center duration-1000">
-          <Image className="object-cover" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
+        <div className="relative col-span-2 h-[100px]">
+          <Image className="object-cover transition-all object-top ease-in-out hover:object-center duration-1000" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
         </div>
-        <div className="relative h-[100px]  transition-all object-top ease-in-out hover:object-center duration-1000">
-          <Image className="object-cover" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
+        <div className="relative h-[100px]">
+          <Image className="object-cover transition-all object-top ease-in-out hover:object-center duration-1000" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
         </div>
-        <div className="relative col-span-2 h-[100px] transition-all object-top ease-in-out hover:object-center duration-1000">
-          <Image className="object-cover" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
+        <div className="relative col-span-2 h-[100px]">
+          <Image className="object-cover transition-all object-top ease-in-out hover:object-center duration-1000" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
         </div>
       </div>
     </div>

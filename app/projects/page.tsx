@@ -8,7 +8,7 @@ const Projects = () => {
           <Image className="object-cover transition object-top ease-in-out hover:object-center duration-500" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
         </div>
         <div className="relative col-span-2 h-[100px]">
-          <Image className="transition object-cover object-top ease-in-out hover:object-center duration-1000" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
+          <Image className="object-cover transition object-top ease-in-out hover:object-center duration-1000" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw" />
         </div>
         <div className="relative h-[100px]">
           <Image className="object-cover" src="/assets/images/cat.jpg" alt="tree-image" fill sizes="100vw"/>

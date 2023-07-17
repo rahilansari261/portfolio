@@ -148,7 +148,7 @@ const Projects = () => {
         </div>
         <div className="relative h-[150px]  md:bg-black group rounded-lg">
           <Image
-            className="object-cover transition-all object-left-top ease-in-out md:group-hover:object-bottom duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
+            className="object-cover transition-all object-top ease-in-out md:group-hover:object-bottom duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
             src="/assets/images/6-tm.png"
             alt="tree-image"
             fill

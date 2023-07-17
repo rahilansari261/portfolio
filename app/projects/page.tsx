@@ -63,8 +63,8 @@ const Projects = () => {
         </div>
         <div className="relative h-[150px] md:bg-black group rounded-lg">
           <Image
-            className="object-cover transition-all object-left-top ease-in-out md:group-hover:object-bottom duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
-            src="/assets/images/3-port.png"
+            className="object-cover transition-all object-left-top ease-in-out md:group-hover:object-center duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
+            src="/assets/images/3-port-m.png"
             alt="tree-image"
             fill
             sizes="100vw"
@@ -92,7 +92,7 @@ const Projects = () => {
         </div>
         <div className="relative md:row-span-2 h-[150px] md:h-[300px] md:bg-black group rounded-lg">
           <Image
-            className="object-cover transition-all object-left-top ease-in-out md:group-hover:object-bottom duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
+            className="object-cover transition-all object-right-top ease-in-out md:group-hover:object-center duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
             src="/assets/images/4-cb.png"
             alt="tree-image"
             fill

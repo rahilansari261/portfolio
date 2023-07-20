@@ -35,7 +35,7 @@ const Projects = () => {
         </div>
         <div className="relative md:col-span-2 h-[150px] group md:bg-black group rounded-lg">
           <Image
-            className="object-cover transition-all object-top ease-in-out md:group-hover:object-bottom duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
+            className="object-cover transition-all object-top ease-in-out md:group-hover:object-center duration-1000 opacity-100 md:group-hover:opacity-40 rounded-lg outline md:group-hover:outline-4s md:group-hover:outline-indigo-500 "
             src="/assets/images/2-sh.png"
             alt="tree-image"
             fill

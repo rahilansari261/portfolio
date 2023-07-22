@@ -14,14 +14,17 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-            <div className="text-base">PaperWeight</div>
-            <div className="text-xs w-max">Invoice generating application</div>
-
-            <div className="text-sm inline">
-              see details <LuExternalLink />{" "}
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
             </div>
-          </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>
@@ -45,11 +48,17 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000  md:flex flex-col">
-            <div>Rahil</div>
-            <div>Rahil</div>
-            <div>Rahil</div>
-          </div>
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
+            </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>
@@ -74,11 +83,17 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000  md:flex flex-col">
-            <div>Rahil</div>
-            <div>Rahil</div>
-            <div>Rahil</div>
-          </div>
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
+            </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>
@@ -102,11 +117,17 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000  md:flex flex-col">
-            <div>Rahil</div>
-            <div>Rahil</div>
-            <div>Rahil</div>
-          </div>
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
+            </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>
@@ -130,11 +151,17 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000  md:flex flex-col">
-            <div>Rahil</div>
-            <div>Rahil</div>
-            <div>Rahil</div>
-          </div>
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
+            </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>
@@ -158,11 +185,17 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000  md:flex flex-col">
-            <div>Rahil</div>
-            <div>Rahil</div>
-            <div>Rahil</div>
-          </div>
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
+            </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>
@@ -186,11 +219,17 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000  md:flex flex-col">
-            <div>Rahil</div>
-            <div>Rahil</div>
-            <div>Rahil</div>
-          </div>
+          <Link href="/projects/rahil">
+            <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
+              <div className="text-base">PaperWeight</div>
+              <div className="text-xs w-max">
+                Invoice generating application
+              </div>
+              <div className="text-sm inline">
+                see details <LuExternalLink />{" "}
+              </div>
+            </div>
+          </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
           <div>Project Name: Rahil</div>

@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 
 export default function Page({ params }: { params: { slug: string } }) {
   return (
@@ -13,7 +12,7 @@ export default function Page({ params }: { params: { slug: string } }) {
           sizes="100vw"
         />
       </div>
-      <div className=" text-black flex flex-col">
+      <div className=" text-black flex flex-col py-5">
         <div>Project Name: Rahil</div>
         <div>Tech.: Rahil</div>
         <div>
@@ -23,16 +22,48 @@ export default function Page({ params }: { params: { slug: string } }) {
         </div>
       </div>
 
-      <div className="flex flex-col">
-        <div className="flex flex-col md:flex-row justify-center md:justify-between">
-          <div className="md:max-w[300px]">
+      <div className="flex flex-col py-5">
+        <div className="flex flex-col justify-center md:flex-row md:justify-between py-3 ">
+          <div className="md:max-w-[45%]">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Aspernatur, laudantium expedita exercitationem mollitia tempore
             dolorum quaerat enim reiciendis.
           </div>
-          <div className="relative md:bg-black rounded-lg ">
+          <div className="relative md:max-w-[45%] md:flex-1 h-48">
             <Image
-              className="object-cover object-top rounded-lg outline outline-4s outline-indigo-500"
+              className=" object-cover object-top rounded-lg outline outline-4s outline-indigo-500 "
+              src="/assets/images/1-pw.png"
+              alt="tree-image"
+              fill
+              sizes="100vw"
+            />
+          </div>
+        </div>
+        <div className="flex flex-col justify-center md:flex-row md:justify-between py-3">
+          <div className="relative md:max-w-[45%] md:flex-1 h-48 order-2 md:order-1">
+            <Image
+              className=" object-cover object-top rounded-lg outline outline-4s outline-indigo-500 "
+              src="/assets/images/1-pw.png"
+              alt="tree-image"
+              fill
+              sizes="100vw"
+            />
+          </div>
+          <div className="md:max-w-[45%] order-1 md:order-2">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Aspernatur, laudantium expedita exercitationem mollitia tempore
+            dolorum quaerat enim reiciendis.
+          </div>
+        </div>
+        <div className="flex flex-col justify-center md:flex-row md:justify-between py-3">
+          <div className="md:max-w-[45%]">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Aspernatur, laudantium expedita exercitationem mollitia tempore
+            dolorum quaerat enim reiciendis.
+          </div>
+          <div className="relative md:max-w-[45%] md:flex-1 h-48">
+            <Image
+              className=" object-cover object-top rounded-lg outline outline-4s outline-indigo-500 "
               src="/assets/images/1-pw.png"
               alt="tree-image"
               fill

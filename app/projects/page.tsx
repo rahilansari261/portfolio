@@ -33,14 +33,18 @@ const Projects = () => {
           <div>Details: Invoice generating application.</div>
           <div className="flex gap-8">
             <Link href="https://pw261.netlify.app/">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://github.com/rahilansari261/pw-client">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
 
@@ -81,14 +85,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="https://starter-hive.vercel.app">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://github.com/ArslanYM/StarterHive">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
           <Link href="/projects/rahil">
@@ -122,14 +130,18 @@ const Projects = () => {
           <div>Details: Rahil&apos;s Portfolio</div>
           <div className="flex gap-8">
             <Link href="https://rahilansari.vercel.app">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://github.com/rahilansari261/portfolio">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
           <Link href="/projects/rahil">
@@ -173,14 +185,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="https://codebook261.vercel.app/">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://github.com/rahilansari261/codebook">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
           <Link href="/projects/rahil">
@@ -214,14 +230,18 @@ const Projects = () => {
           <div>Details: Movies app consuming tmdb api</div>
           <div className="flex gap-8">
             <Link href="https://movieez.vercel.app/">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://github.com/rahilansari261/cinemate">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
           <Link href="/projects/rahil">
@@ -255,14 +275,18 @@ const Projects = () => {
           <div>Details: Task manager application</div>
           <div className="flex gap-8">
             <Link href="https://taskmate-ul.netlify.app/">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://taskmate-ul.netlify.app/">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
           <Link href="/projects/rahil">
@@ -296,14 +320,18 @@ const Projects = () => {
           <div>Details: Tenzies game.</div>
           <div className="flex gap-8">
             <Link href="https://tenzies261.netlify.app/">
-              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
-                Live Demo <FaLaptop className="inline" />
-              </div>
+              <a target="_blank">
+                <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Live Demo <FaLaptop className="inline" />
+                </div>
+              </a>
             </Link>
             <Link href="https://github.com/rahilansari261/tenzies">
-              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
-                Github Code <FaGithub className="inline" />
-              </div>
+              <a target="_blank">
+                <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
+                  Github Code <FaGithub className="inline" />
+                </div>
+              </a>
             </Link>
           </div>
           <Link href="/projects/rahil">

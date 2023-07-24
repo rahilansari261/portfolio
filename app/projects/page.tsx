@@ -36,6 +36,7 @@ const Projects = () => {
               <a
                 target="_blank"
                 className="text-base cursor-pointer hover:text-blue-900 font-bold"
+                rel="noopener noreferrer"
               >
                 Live Demo <FaLaptop className="inline" />
               </a>

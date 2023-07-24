@@ -15,7 +15,7 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <Link href="/projects/rahil">
+          <Link href="/projects/1/paperweight">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
               <div className="text-xs w-max">
@@ -50,7 +50,7 @@ const Projects = () => {
             </Link>
           </div>
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/1/paperweight">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               View More <LuExternalLink className="inline" />
             </div>
@@ -65,7 +65,7 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/2/starter-hive">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">StarterHive</div>
               <div className="text-xs w-max">
@@ -103,7 +103,7 @@ const Projects = () => {
               </a>
             </Link>
           </div>
-          <Link href="/projects/rahil">
+          <Link href="/projects/2/starter-hive">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
@@ -118,7 +118,7 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/3/portfolio">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">Rahil&apos;s Portfolio</div>
               <div className="text-xs w-max">Rahil&apos;s Portfolio</div>
@@ -150,7 +150,7 @@ const Projects = () => {
               </a>
             </Link>
           </div>
-          <Link href="/projects/rahil">
+          <Link href="/projects/3/portfolio">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
@@ -165,7 +165,7 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/4/codebook">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">CodeBook</div>
               <div className="text-xs w-max">
@@ -207,7 +207,7 @@ const Projects = () => {
               </a>
             </Link>
           </div>
-          <Link href="/projects/rahil">
+          <Link href="/projects/4/codebook">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
@@ -222,7 +222,7 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/5/cinemate">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">Cinemate</div>
               <div className="text-xs w-max">Movies app consuming tmdb api</div>
@@ -254,7 +254,7 @@ const Projects = () => {
               </a>
             </Link>
           </div>
-          <Link href="/projects/rahil">
+          <Link href="/projects/5/cinemate">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
@@ -269,7 +269,7 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/6/task-manager">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">Task Manager</div>
               <div className="text-xs w-max">Task manager application</div>
@@ -301,7 +301,7 @@ const Projects = () => {
               </a>
             </Link>
           </div>
-          <Link href="/projects/rahil">
+          <Link href="/projects/6/task-manager">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
@@ -316,7 +316,7 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="/projects/rahil">
+          <Link href="/projects/7/tenzies">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">Tenzies</div>
               <div className="text-xs w-max">Tenzies game</div>
@@ -348,7 +348,7 @@ const Projects = () => {
               </a>
             </Link>
           </div>
-          <Link href="/projects/rahil">
+          <Link href="/projects/7/tenzies">
             <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>

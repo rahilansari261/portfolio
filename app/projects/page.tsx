@@ -151,9 +151,11 @@ const Projects = () => {
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">CodeBook</div>
               <div className="text-xs w-max">
-                CodeBook is the world&apos;s most popular and authoritative
-                source <br /> for computer science ebooks. <br />
-                Find ratings and access to the newest books digitally.
+                CodeBook is market for <br />
+                computer science ebooks. <br />
+                Find ratings and <br />
+                access to the newest <br />
+                books digitally.
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />

@@ -307,7 +307,7 @@ const Projects = () => {
             Details: Tenzies game.
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://tenzies261.netlify.app/">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>

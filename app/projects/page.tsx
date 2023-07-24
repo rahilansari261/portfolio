@@ -47,7 +47,7 @@ const Projects = () => {
           </div>
 
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               View More <LuExternalLink className="inline" />
             </div>
           </Link>
@@ -81,18 +81,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="">
-              <div className="text-base cursor-pointer text-blue-900 font-bold">
+              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
             <Link href="">
-              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -126,18 +126,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="">
-              <div className="text-base cursor-pointer text-blue-900 font-bold">
+              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
             <Link href="">
-              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -171,18 +171,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="">
-              <div className="text-base cursor-pointer text-blue-900 font-bold">
+              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
             <Link href="">
-              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -216,18 +216,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="">
-              <div className="text-base cursor-pointer text-blue-900 font-bold">
+              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
             <Link href="">
-              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -261,18 +261,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="">
-              <div className="text-base cursor-pointer text-blue-900 font-bold">
+              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
             <Link href="">
-              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -306,18 +306,18 @@ const Projects = () => {
           </div>
           <div className="flex gap-8">
             <Link href="">
-              <div className="text-base cursor-pointer text-blue-900 font-bold">
+              <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
             <Link href="">
-              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer hover:text-blue-900 font-bold ">
               view more
             </div>
           </Link>

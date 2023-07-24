@@ -28,18 +28,18 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: PaperWeight</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: Invoice generating application.
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://pw261.netlify.app/">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://github.com/rahilansari261/pw-client">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
@@ -63,9 +63,10 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">PaperWeight</div>
+              <div className="text-base">StarterHive</div>
               <div className="text-xs w-max">
-                Invoice generating application
+                Help beginners to contribute to open source projects of remotely
+                hiring organizations.
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -74,18 +75,19 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: StarterHive</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: Help beginners to contribute to open source projects of
+            remotely hiring organizations.
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://starter-hive.vercel.app">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://github.com/ArslanYM/StarterHive">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
@@ -108,9 +110,9 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">PaperWeight</div>
+              <div className="text-base">Rahil's Portfolio</div>
               <div className="text-xs w-max">
-                Invoice generating application
+                Rahil's Portfolio 
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -119,18 +121,18 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: Rahil's Portfolio</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: Rahil's Portfolio
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://rahilansari.vercel.app">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://github.com/rahilansari261/portfolio">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
@@ -153,9 +155,9 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">PaperWeight</div>
+              <div className="text-base">CodeBook</div>
               <div className="text-xs w-max">
-                Invoice generating application
+              CodeBook is the world's most popular and authoritative source for computer science ebooks. Find ratings and access to the newest books digitally.
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -164,18 +166,18 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: CodeBook</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: CodeBook is the world's most popular and authoritative source for computer science ebooks. Find ratings and access to the newest books digitally.
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://codebook261.vercel.app/">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://github.com/rahilansari261/codebook">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
@@ -198,9 +200,9 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">PaperWeight</div>
+              <div className="text-base">Cinemate</div>
               <div className="text-xs w-max">
-                Invoice generating application
+                Movies app consuming tmdb api
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -209,18 +211,18 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: Cinemate</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: Movies app consuming tmdb api
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://movieez.vercel.app/">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://github.com/rahilansari261/cinemate">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
@@ -243,9 +245,9 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">PaperWeight</div>
+              <div className="text-base">Task Manager</div>
               <div className="text-xs w-max">
-                Invoice generating application
+                Task manager application
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -254,18 +256,18 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: Task Manager</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: Task manager application
           </div>
           <div className="flex gap-8">
-            <Link href="">
+            <Link href="https://taskmate-ul.netlify.app/">
               <div className="text-base cursor-pointer hover:text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://taskmate-ul.netlify.app/">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>
@@ -288,9 +290,9 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">PaperWeight</div>
+              <div className="text-base">Tenzies</div>
               <div className="text-xs w-max">
-                Invoice generating application
+                Tenzies game
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -299,10 +301,10 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil</div>
-          <div>Tech.: Rahil</div>
+          <div>Project Name: Tenzies</div>
+          <div>Tech.: MERN Stack</div>
           <div>
-            Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Details: Tenzies game.
           </div>
           <div className="flex gap-8">
             <Link href="">
@@ -310,7 +312,7 @@ const Projects = () => {
                 Live Demo <FaLaptop className="inline" />
               </div>
             </Link>
-            <Link href="">
+            <Link href="https://github.com/rahilansari261/tenzies">
               <div className=" text-base cursor-pointer hover:text-blue-900 font-bold">
                 Github Code <FaGithub className="inline" />
               </div>

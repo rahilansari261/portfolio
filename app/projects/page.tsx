@@ -33,16 +33,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
 
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
@@ -77,16 +79,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -120,16 +124,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -163,16 +169,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -206,16 +214,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -249,16 +259,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
           <Link href="/projects/rahil">
             <div className="hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -292,16 +304,18 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+          <div className="flex gap-20">
+            <Link href="">
+              <div className="text-base cursor-pointer text-blue-900 font-bold">
+                Live Demo <FaLaptop className="inline" />
+              </div>
+            </Link>
+            <Link href="">
+              <div className=" text-base cursor-pointer text-blue-900 font-bold">
+                Github Code <FaGithub className="inline" />
+              </div>
+            </Link>
+          </div>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more

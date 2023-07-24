@@ -33,7 +33,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -47,7 +47,7 @@ const Projects = () => {
           </div>
 
           <Link href="/projects/rahil">
-            <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               View More <LuExternalLink className="inline" />
             </div>
           </Link>
@@ -79,7 +79,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -92,7 +92,7 @@ const Projects = () => {
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -124,7 +124,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -137,7 +137,7 @@ const Projects = () => {
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -169,7 +169,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -182,7 +182,7 @@ const Projects = () => {
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -214,7 +214,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -227,7 +227,7 @@ const Projects = () => {
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -259,7 +259,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -272,7 +272,7 @@ const Projects = () => {
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className="hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
             </div>
           </Link>
@@ -304,7 +304,7 @@ const Projects = () => {
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </div>
-          <div className="flex gap-20">
+          <div className="flex gap-8">
             <Link href="">
               <div className="text-base cursor-pointer text-blue-900 font-bold">
                 Live Demo <FaLaptop className="inline" />
@@ -317,7 +317,7 @@ const Projects = () => {
             </Link>
           </div>
           <Link href="/projects/rahil">
-            <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
+            <div className=" text-base hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
             </div>
           </Link>

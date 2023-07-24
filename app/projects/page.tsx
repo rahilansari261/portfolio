@@ -32,15 +32,15 @@ const Projects = () => {
           <div>Tech.: MERN Stack</div>
           <div>Details: Invoice generating application.</div>
           <div className="flex gap-8">
-            <Link href="https://pw261.netlify.app/">
-              <a
+            <a href="https://pw261.netlify.app/"
+              
                 target="_blank"
                 className="text-base cursor-pointer hover:text-blue-900 font-bold"
                 rel="noopener noreferrer"
               >
                 Live Demo <FaLaptop className="inline" />
               </a>
-            </Link>
+            
             <Link href="https://github.com/rahilansari261/pw-client">
               <a
                 target="_blank"

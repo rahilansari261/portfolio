@@ -110,9 +110,9 @@ const Projects = () => {
 
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
-              <div className="text-base">Rahil's Portfolio</div>
+              <div className="text-base">Rahil&apos;s Portfolio</div>
               <div className="text-xs w-max">
-                Rahil's Portfolio 
+                Rahil&apos;s Portfolio 
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -121,10 +121,10 @@ const Projects = () => {
           </Link>
         </div>
         <div className="flex flex-col py-5 md:hidden">
-          <div>Project Name: Rahil's Portfolio</div>
+          <div>Project Name: Rahil&apos;s Portfolio</div>
           <div>Tech.: MERN Stack</div>
           <div>
-            Details: Rahil's Portfolio
+            Details: Rahil&apos;s Portfolio
           </div>
           <div className="flex gap-8">
             <Link href="https://rahilansari.vercel.app">
@@ -157,7 +157,7 @@ const Projects = () => {
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">CodeBook</div>
               <div className="text-xs w-max">
-              CodeBook is the world's most popular and authoritative source for computer science ebooks. Find ratings and access to the newest books digitally.
+              CodeBook is the world&apos;s most popular and authoritative source for computer science ebooks. Find ratings and access to the newest books digitally.
               </div>
               <div className="text-sm inline">
                 see details <LuExternalLink className="inline" />
@@ -169,7 +169,7 @@ const Projects = () => {
           <div>Project Name: CodeBook</div>
           <div>Tech.: MERN Stack</div>
           <div>
-            Details: CodeBook is the world's most popular and authoritative source for computer science ebooks. Find ratings and access to the newest books digitally.
+            Details: CodeBook is the world&apos;s most popular and authoritative source for computer science ebooks. Find ratings and access to the newest books digitally.
           </div>
           <div className="flex gap-8">
             <Link href="https://codebook261.vercel.app/">

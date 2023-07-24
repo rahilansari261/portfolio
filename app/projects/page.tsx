@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { FaGithub, FaLaptop } from "react-icons/fa";
 import { LuExternalLink } from "react-icons/lu";
 
 const Projects = () => {
@@ -20,8 +21,8 @@ const Projects = () => {
               <div className="text-xs w-max">
                 Invoice generating application
               </div>
-              <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+              <div className="text-sm ">
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -31,12 +32,21 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
+
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
-              view more
+              View More <LuExternalLink className="inline" />
             </div>
           </Link>
         </div>
@@ -48,6 +58,16 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -55,7 +75,7 @@ const Projects = () => {
                 Invoice generating application
               </div>
               <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -65,9 +85,17 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -83,6 +111,16 @@ const Projects = () => {
             sizes="100vw"
           />
 
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -90,7 +128,7 @@ const Projects = () => {
                 Invoice generating application
               </div>
               <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -100,9 +138,17 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -117,6 +163,16 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -124,7 +180,7 @@ const Projects = () => {
                 Invoice generating application
               </div>
               <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -134,9 +190,17 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -151,6 +215,16 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -158,7 +232,7 @@ const Projects = () => {
                 Invoice generating application
               </div>
               <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -168,9 +242,17 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -185,6 +267,16 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -192,7 +284,7 @@ const Projects = () => {
                 Invoice generating application
               </div>
               <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -202,9 +294,17 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hover:underline cursor-pointer text-blue-900 font-bold ">
               view more
@@ -219,6 +319,16 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -226,7 +336,7 @@ const Projects = () => {
                 Invoice generating application
               </div>
               <div className="text-sm inline">
-                see details <LuExternalLink />{" "}
+                see details <LuExternalLink className="inline" />
               </div>
             </div>
           </Link>
@@ -236,9 +346,17 @@ const Projects = () => {
           <div>Tech.: Rahil</div>
           <div>
             Details: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Dignissimos porro assumenda minima, animi dolorum cupiditate debitis
-            vel ea voluptate animi architecto harum pariatur perspiciatis.
           </div>
+          <Link href="">
+            <div className="text-base cursor-pointer text-blue-900 font-bold">
+              Live Demo <FaLaptop className="inline" />
+            </div>
+          </Link>
+          <Link href="">
+            <div className=" text-base cursor-pointer text-blue-900 font-bold">
+              Github Code <FaGithub className="inline" />
+            </div>
+          </Link>
           <Link href="/projects/rahil">
             <div className=" hover:underline cursor-pointer text-blue-900 font-bold ">
               view more

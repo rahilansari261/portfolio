@@ -58,16 +58,7 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -111,16 +102,6 @@ const Projects = () => {
             sizes="100vw"
           />
 
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -163,16 +144,7 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -215,16 +187,7 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -267,16 +230,7 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>
@@ -319,16 +273,7 @@ const Projects = () => {
             fill
             sizes="100vw"
           />
-          <Link href="">
-            <div className="text-base cursor-pointer text-blue-900 font-bold">
-              Live Demo <FaLaptop className="inline" />
-            </div>
-          </Link>
-          <Link href="">
-            <div className=" text-base cursor-pointer text-blue-900 font-bold">
-              Github Code <FaGithub className="inline" />
-            </div>
-          </Link>
+
           <Link href="/projects/rahil">
             <div className="hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-1000 md:flex flex-col">
               <div className="text-base">PaperWeight</div>

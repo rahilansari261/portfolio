@@ -1,6 +1,7 @@
 import Image from "next/image";
-
+import { projects } from "../../../data/data";
 export default function Page({ params }: { params: { slug: string } }) {
+  console.log(projects);
   return (
     <div className="w-full text-black text-[1.2rem] px-10 py-4 md:py-10 md:max-w-[800px] md:mx-auto">
       <div className="relative h-[150px] md:h-[300px] md:bg-black rounded-lg ">

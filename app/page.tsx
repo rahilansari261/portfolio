@@ -29,6 +29,7 @@ export default function Home() {
         <Link
           className="inline-block w-full no-underline text-white"
           href="./assets/files/ResumeRahil-f-1.pdf"
+          target="_blank"
           download
         >
           My Resume
